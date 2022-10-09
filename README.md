@@ -7,13 +7,13 @@ PatientId | AppointmentID |Gender | ScheduledDay | AppointmentDay | Age | Neighb
 
 We try to answer this question by looking at the relationship between the No-show feature in our dataset as against these variables;
 
-Gender: A patient can be male or female
+        Gender: A patient can be male or female
 
-Scholarship: This implies that a patient can be enrolled or not enrolled in Brasilian welfare program
+        Scholarship: This implies that a patient can be enrolled or not enrolled in Brasilian welfare program
 
-Ailments: In this dataset, we treat features like Handicap, Hipertension, diabetes, Alcoholism as ailments. We then try to understand the impact of this feature on the outcome variable.
+        Ailments: In this dataset, we treat features like Handicap, Hipertension, diabetes, Alcoholism as ailments. We then try to understand the impact of this feature         on the outcome variable.
 
-Test Messages: If a patient received test messages or not.
+        Test Messages: If a patient received test messages or not.
 
 Given these variables, we hope to answer the above question by asking these sets of question;
 
