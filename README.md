@@ -11,7 +11,7 @@ We try to answer this question by looking at the relationship between the No-sho
 
         Scholarship: This implies that a patient can be enrolled or not enrolled in Brasilian welfare program
 
-        Ailments: In this dataset, we treat features like Handicap, Hipertension, diabetes, Alcoholism as ailments. We then try to understand the impact of this feature         on the outcome variable.
+        Ailments: features like Handicap, Hipertension, diabetes, Alcoholism as ailments. We then try to understand the impact of this features on the outcome variable.
 
         Test Messages: If a patient received test messages or not.
 
