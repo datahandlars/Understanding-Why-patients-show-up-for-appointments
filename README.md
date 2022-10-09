@@ -21,6 +21,6 @@ Given these variables, we hope to answer the above question by asking these sets
 
         Does Scholarship increase the the rate at which people will show up for appointment?
 
-        How do ailments such as Diabetes, Alcoholism, impact if a patient will show up for appointment or not? 
+        How do ailments such as Diabetes, Alcoholism etc. impact if a patient will show up for appointment or not? 
 
         What role does information via test message play in patients showing up for appointments?
