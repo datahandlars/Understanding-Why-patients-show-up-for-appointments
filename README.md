@@ -17,10 +17,10 @@ We try to answer this question by looking at the relationship between the No-sho
 
 Given these variables, we hope to answer the above question by asking these sets of question;
 
-Does a patient's gender determine if he or she will show up for an appointment?
+        Does a patient's gender determine if he or she will show up for an appointment?
 
-Does Scholarship increase the the rate at which people will show up for appointment?
+        Does Scholarship increase the the rate at which people will show up for appointment?
 
-How do ailments such as Diabetes, Alcoholism, impact if a patient will show up for appointment or not? 
+        How do ailments such as Diabetes, Alcoholism, impact if a patient will show up for appointment or not? 
 
-What role does information via test message play in patients showing up for appointments?
+        What role does information via test message play in patients showing up for appointments?
