@@ -3,12 +3,10 @@ In this project, we hope to understand the reasons why a patient will either sho
 
 Yes in this case means that the patient did not show up, while No means that the patient showed up. Listed below are the features in the dataset;
 
-PatientId
-
-AppointmentID
-Gender
-ScheduledDay
-AppointmentDay
+PatientId | AppointmentID; 
+Gender; 
+ScheduledDay;
+AppointmentDay;
 Age
 Neighbourhood
 Scholarship
